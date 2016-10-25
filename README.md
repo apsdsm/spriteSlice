@@ -1,6 +1,6 @@
 # Split Sprites
 
-Sm¥Very simple script for carving up image file into tiles.
+Very simple script for carving up image file into tiles.
 
 ## Usage
 
